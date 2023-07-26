@@ -1,0 +1,8 @@
+npx  knex migrate:latest
+npx knex seed:run
+
+//knex คือ ตัวที่ช่วยในการเขียนคำสั่ง sql ให้ง่ายขึ้น
+  //  "multer": "^1.4.3", //อัพโหลดไฟล์ 
+  //"cors": "^2.8.5", // ติดตั้ง cors
+  // nodemon คือ ตัวที่ช่วยในการรันโปรแกรมให้ไม่ต้องรันใหม่ทุกครั้ง
+  //on server production  ต้องใช้ node server.js

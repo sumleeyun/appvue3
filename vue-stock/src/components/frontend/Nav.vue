@@ -29,7 +29,7 @@
           <router-link class="nav-link" to="#">ติดต่อเรา </router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="#">สมัครสมาชิก </router-link>
+          <router-link class="nav-link" to="/register">สมัครสมาชิก </router-link>
         </li>
         <li class="nav-item">
           <router-link class="nav-link" to="/login">เข้าสู่ระบบ </router-link>
